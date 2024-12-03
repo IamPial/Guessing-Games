@@ -1,6 +1,5 @@
-/*Day 5: Loops
-- Morning: for, while, do-while loops
-- Project: Create a number guessing game*/ 
+
+/* Create a number guessing game*/ 
 
 let numOfwon = 0;
 let numOfloss = 0;
